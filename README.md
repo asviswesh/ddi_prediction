@@ -3,7 +3,7 @@ graph neural networks (GNNs) and semantic node embeddings. They are evaluated us
 
 We compare:
 
-- A **purely structural GNN** baseline
+- A **structural GNN** baseline
 - A **GNN augmented with semantic (SciBERT-based) node embeddings**
 - A **semantic-only MLP with contrastive training** on precomputed embeddings
 
